@@ -1,6 +1,6 @@
 <h1 align="center"> Проект "Исследование данных данные о продажах различных наименований товаров в городах Индии"</h1>
 
-<p align="center"><img src="https://github.com/Sairus74/Gectaro/blob/main/maxresdefault.jpg" width="600" height="400" /></p>
+<p align="center"><img src="https://github.com/Sairus74/Store-Sales/blob/main/64564-3.jpg" width="400" height="400" /></p>
 
 <div style="text-align: justify">
 
